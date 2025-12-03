@@ -1,0 +1,103 @@
+\documentclass[12pt,a4paper]{report}
+
+% ============================================
+% PAKETE
+% ============================================
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+\usepackage{eurosym}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{enumitem}
+\usepackage{xcolor}
+
+% ============================================
+% SEITENEINSTELLUNGEN
+% ============================================
+\geometry{
+    left=2.5cm,
+    right=2.5cm,
+    top=2.5cm,
+    bottom=2.5cm
+}
+
+% ============================================
+% KOPF- UND FUSSZEILE
+% ============================================
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[L]{FreshGuard - Businessplan}
+\fancyhead[R]{\leftmark}
+\fancyfoot[C]{\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% ============================================
+% HYPERLINK-EINSTELLUNGEN
+% ============================================
+\hypersetup{
+    colorlinks=true,
+    linkcolor=black,
+    urlcolor=blue,
+    citecolor=black
+}
+
+% ============================================
+% KAPITELÜBERSCHRIFTEN ANPASSEN
+% ============================================
+\titleformat{\chapter}[display]
+    {\normalfont\huge\bfseries}
+    {\chaptertitlename\ \thechapter}{20pt}{\Huge}
+\titlespacing*{\chapter}{0pt}{-20pt}{40pt}
+
+% ============================================
+% DOKUMENTINFORMATIONEN
+% ============================================
+\title{
+    \vspace{-2cm}
+    % \includegraphics[width=0.3\textwidth]{img/logo.png}\\[1cm]
+    \textbf{Businessplan}\\[0.5cm]
+    \Large FreshGuard - Intelligente Lebensmittelverwaltung
+}
+\author{
+    Maike Abel\\
+    Phillipp Atzler\\
+    Elisa Dörnbrak
+}
+\date{Dezember 2025}
+
+% ============================================
+% DOKUMENT BEGINN
+% ============================================
+\begin{document}
+
+% Titelseite
+\maketitle
+\thispagestyle{empty}
+\newpage
+
+% Inhaltsverzeichnis
+\tableofcontents
+\newpage
+
+% ============================================
+% KAPITEL EINBINDEN
+% ============================================
+
+\input{kapitel/01_zusammenfassung}
+\input{kapitel/02_gruenderperson}
+\input{kapitel/03_geschaeftsidee}
+\input{kapitel/04_markt_wettbewerb}
+\input{kapitel/05_marketing}
+\input{kapitel/06_organisation}
+\input{kapitel/07_rechtsform}
+\input{kapitel/08_risiken}
+\input{kapitel/09_finanzplan}
+
+\end{document}
