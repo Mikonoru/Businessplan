@@ -4,14 +4,14 @@
 \contentsline {section}{\numberline {1.2}Namen der Gründer}{5}{section.1.2}%
 \contentsline {section}{\numberline {1.3}Geschäftsidee}{5}{section.1.3}%
 \contentsline {section}{\numberline {1.4}Besonderheit der Geschäftsidee}{5}{section.1.4}%
-\contentsline {section}{\numberline {1.5}Qualifikationen der Gründer}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.5}Qualifikationen der Gründer}{6}{section.1.5}%
 \contentsline {section}{\numberline {1.6}Zielkunden}{6}{section.1.6}%
 \contentsline {section}{\numberline {1.7}Vertriebsweg}{6}{section.1.7}%
 \contentsline {section}{\numberline {1.8}Kapitalbedarf}{6}{section.1.8}%
 \contentsline {section}{\numberline {1.9}Erwartetes Umsatzvolumen}{6}{section.1.9}%
 \contentsline {section}{\numberline {1.10}Mitarbeiter in den ersten drei Jahren}{6}{section.1.10}%
 \contentsline {section}{\numberline {1.11}Ziele}{6}{section.1.11}%
-\contentsline {section}{\numberline {1.12}Risiken}{6}{section.1.12}%
+\contentsline {section}{\numberline {1.12}Risiken}{7}{section.1.12}%
 \contentsline {section}{\numberline {1.13}Geplanter Start}{7}{section.1.13}%
 \contentsline {chapter}{\numberline {2}Gründerperson(en)}{8}{chapter.2}%
 \contentsline {section}{\numberline {2.1}Fachliche Qualifikationen}{8}{section.2.1}%
