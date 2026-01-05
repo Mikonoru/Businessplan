@@ -31,9 +31,9 @@
 \contentsline {section}{\numberline {6.3}Berater und Unterstützer}{14}{section.6.3}%
 \contentsline {section}{\numberline {6.4}Gründungsformalitäten}{14}{section.6.4}%
 \contentsline {chapter}{\numberline {7}Rechtsform}{15}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Gewählte Rechtsform und Begründung}{15}{section.7.1}%
+\contentsline {section}{\numberline {7.1}Firmenname und Rechtsform}{15}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Gesellschafterstruktur und Haftung}{15}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Gesellschaftsvertrag}{15}{section.7.3}%
+\contentsline {section}{\numberline {7.3}Gesellschaftsvertrag}{16}{section.7.3}%
 \contentsline {chapter}{\numberline {8}Chancen und Risiken}{17}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Chancen}{17}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Risiken und Absicherung}{17}{section.8.2}%
