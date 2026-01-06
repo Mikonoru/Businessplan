@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.18)  5 JAN 2026 09:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.11.18)  6 JAN 2026 12:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -275,6 +275,13 @@ Package: enumitem 2025/02/06 v3.11 Customized lists
 \enit@inbox=\box60
 \enit@count@id=\count310
 \enitdp@description=\count311
+) (C:\Program Files\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count312
+\float@exts=\toks25
+\float@box=\box61
+\@float@everytoks=\toks26
+\@floatcapt=\box62
 ) (C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
  (C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
@@ -294,37 +301,37 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 ) (C:\Program Files\MiKTeX\tex/latex/psnfss\helvet.sty
 Package: helvet 2020/03/25 PSNFSS-v9.3 (WaS) 
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 51.
-LaTeX Font Info:    Trying to load font information for T1+phv on input line 80.
+Package hyperref Info: Option `colorlinks' set `true' on input line 52.
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 81.
  (C:\Program Files\MiKTeX\tex/latex/psnfss\t1phv.fd
 File: t1phv.fd 2020/03/25 scalable font definitions for T1/phv.
 ) (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count312
+\l__color_backend_stack_int=\count313
 ) (main.aux
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
 (babel)             Reported on input line 8.
 )
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 80.
-LaTeX Font Info:    ... okay on input line 80.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 81.
+LaTeX Font Info:    ... okay on input line 81.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -362,32 +369,32 @@ LaTeX Font Info:    ... okay on input line 80.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count313
+\scratchcounter=\count314
 \scratchdimen=\dimen184
-\scratchbox=\box61
-\nofMPsegments=\count314
-\nofMParguments=\count315
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count316
+\scratchbox=\box63
+\nofMPsegments=\count315
+\nofMParguments=\count316
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count317
 \MPscratchDim=\dimen185
-\MPnumerator=\count317
-\makeMPintoPDFobject=\count318
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count318
+\makeMPintoPDFobject=\count319
+\everyMPtoPDFconversion=\toks28
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring ON on input line 80.
+Package hyperref Info: Link coloring ON on input line 81.
  (main.out) (main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 84.
+(Font)              <14.4> on input line 85.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 84.
+(Font)              <7> on input line 85.
  [1
 
 {C:/Users/micro/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}] (main.toc
@@ -401,7 +408,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.40 ...erline {8.3}SWOT-Analyse}{18}{section.8.3}
+l.40 ...}Risiken und Absicherung}{18}{section.8.2}
                                                   % [1
 
 ])
@@ -409,16 +416,8 @@ l.40 ...erline {8.3}SWOT-Analyse}{18}{section.8.3}
 \openout4 = `main.toc'.
 
 Package babel Info: 'ngerman' activates 'ngerman' shorthands.
-(babel)             Reported on input line 89.
-
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[2] (kapitel/01_zusammenfassung.tex
+(babel)             Reported on input line 90.
+ [2] (kapitel/01_zusammenfassung.tex
 Kapitel 1.
 
 Overfull \hbox (4.12329pt too wide) in paragraph at lines 29--30
@@ -427,15 +426,7 @@ Overfull \hbox (4.12329pt too wide) in paragraph at lines 29--30
 
 [3
 
-]) (kapitel/02_gruenderperson.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[4]
+]) (kapitel/02_gruenderperson.tex [4]
 Kapitel 2.
 
 Overfull \hbox (1.79503pt too wide) in paragraph at lines 5--6
@@ -472,10 +463,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 23--24
 ]) (kapitel/03_geschaeftsidee.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.25792pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.25792pt}.
+(fancyhdr)                Make it at least 12.68994pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.68994pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.25792pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.68994pt}.
 
 [6]
 Kapitel 3.
@@ -494,10 +485,10 @@ Overfull \hbox (10.72287pt too wide) in paragraph at lines 17--18
 ]) (kapitel/04_markt_wettbewerb.tex
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 15.25792pt, for example:
-(fancyhdr)                \setlength{\headheight}{15.25792pt}.
+(fancyhdr)                Make it at least 12.68994pt, for example:
+(fancyhdr)                \setlength{\headheight}{12.68994pt}.
 (fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-3.25792pt}.
+(fancyhdr)                \addtolength{\topmargin}{-0.68994pt}.
 
 [8]
 Kapitel 4.
@@ -508,15 +499,7 @@ Overfull \hbox (0.62758pt too wide) in paragraph at lines 47--48
 []\T1/phv/m/n/12 Die Vor-tei-le die-ses di-gi-ta-len Stand-orts sind ma-xi-ma-le Reich-wei-te oh-ne Installations-
  []
 
-) (kapitel/05_marketing.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[10]
+) (kapitel/05_marketing.tex [10]
 Kapitel 5.
 [11
 
@@ -525,38 +508,25 @@ Overfull \hbox (6.51137pt too wide) in paragraph at lines 61--1
 \T1/phv/m/n/12 Modell zu er-mög-li-chen. Zu-frie-de-ne Free-User wer-ben neue Nut-zer an und das Premium-
  []
 
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
 [12]
 Kapitel 6.
+<img/Organigramm.png, id=296, 644.4075pt x 575.14874pt>
+File: img/Organigramm.png Graphic file (type png)
+<use img/Organigramm.png>
+Package pdftex.def Info: img/Organigramm.png  used on input line 29.
+(pdftex.def)             Requested size: 409.71692pt x 365.69807pt.
 [13
 
-]) (kapitel/07_rechtsform.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[14]
+] [14
+pdfTeX warning (ext4): destination with the same identifier (name{figure.6.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.53 \section{Berater und UnterstÃ¼tzer}
+                                         <./img/Organigramm.png (PNG copy)>]) (kapitel/07_rechtsform.tex [15]
 Kapitel 7.
-[15
+[16
 
-]) (kapitel/08_risiken.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[16]
+]) (kapitel/08_risiken.tex [17]
 Kapitel 8.
 
 Overfull \hbox (51.19568pt too wide) in paragraph at lines 7--8
@@ -588,70 +558,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 21--22
 []\T1/phv/m/n/12 Regelmäÿige Backups, OWASP-
  []
 
-[17
+[18
 
-]) (kapitel/09_finanzplan.tex
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[18]
+]) (kapitel/09_finanzplan.tex [19]
 Kapitel 9.
 LaTeX Font Info:    Font shape `U/eurosym/b/n' in size <12> not available
 (Font)              Font shape `U/eurosym/bx/n' tried instead on input line 18.
-[19
+[20
 
 ]
 Overfull \hbox (1.09596pt too wide) in paragraph at lines 39--40
 []\T1/phv/m/n/12 Die In-ves-ti-ti-ons-kos-ten in den ers-ten zwölf Mo-na-ten be-tra-gen ins-ge-samt cir-ca 48.000
  []
 
-)
 
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+Overfull \hbox (5.47586pt too wide) in paragraph at lines 49--60
+[][] 
+ []
 
-[20]
-
-Package fancyhdr Warning: \headheight is too small (12.0pt): 
-(fancyhdr)                Make it at least 14.49998pt, for example:
-(fancyhdr)                \setlength{\headheight}{14.49998pt}.
-(fancyhdr)                You might also make \topmargin smaller:
-(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
-
-[21] (main.aux)
+[21]) [22] (main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2025-10-24>
  ***********
-
-
-Package rerunfilecheck Warning: File `main.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `main.out':
-(rerunfilecheck)             Before: 175E4A4CA183A71FA67917E2C93C0C5F;7100
-(rerunfilecheck)             After:  A3060466F6671573A7A334252550D351;7046.
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 5E6ED62C3EFFCC88231E1C55D32B10E6;7376.
  ) 
 Here is how much of TeX's memory you used:
- 12235 strings out of 467871
- 191068 string characters out of 5428442
- 638993 words of memory out of 5000000
- 40865 multiletter control sequences out of 15000+600000
- 655430 words of font info for 71 fonts, out of 8000000 for 9000
+ 12328 strings out of 467871
+ 192544 string characters out of 5428442
+ 640496 words of memory out of 5000000
+ 40948 multiletter control sequences out of 15000+600000
+ 661050 words of font info for 75 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,817b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,80p,817b,623s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\micro\AppData\Local\MiKTeX\fonts/pk/ljfour/public/eurosym/dpi720\feybr10.pk> <C:\Users\micro\AppData\Local\MiKTeX\fonts/pk/ljfour/public/eurosym/dpi720\feymr10.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/helvetic/uhvr8a.pfb>
-Output written on main.pdf (22 pages, 116957 bytes).
+Output written on main.pdf (23 pages, 159865 bytes).
 PDF statistics:
- 365 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 361 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 381 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 382 words of extra memory for PDF output out of 10000 (max. 10000000)
 
