@@ -27,20 +27,22 @@
 \contentsline {section}{\numberline {5.4}Werbung}{12}{section.5.4}%
 \contentsline {chapter}{\numberline {6}Organisation und Mitarbeiter}{13}{chapter.6}%
 \contentsline {section}{\numberline {6.1}Gründer und Partner}{13}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Organigramm}{13}{subsection.6.1.1}%
 \contentsline {section}{\numberline {6.2}Mitarbeiter}{13}{section.6.2}%
 \contentsline {section}{\numberline {6.3}Berater und Unterstützer}{14}{section.6.3}%
-\contentsline {section}{\numberline {6.4}Gründungsformalitäten}{14}{section.6.4}%
-\contentsline {chapter}{\numberline {7}Rechtsform}{15}{chapter.7}%
-\contentsline {section}{\numberline {7.1}Firmenname und Rechtsform}{15}{section.7.1}%
-\contentsline {section}{\numberline {7.2}Gesellschafterstruktur und Haftung}{15}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Gesellschaftsvertrag}{16}{section.7.3}%
-\contentsline {chapter}{\numberline {8}Chancen und Risiken}{17}{chapter.8}%
-\contentsline {section}{\numberline {8.1}Chancen}{17}{section.8.1}%
-\contentsline {section}{\numberline {8.2}Risiken und Absicherung}{17}{section.8.2}%
-\contentsline {section}{\numberline {8.3}SWOT-Analyse}{18}{section.8.3}%
-\contentsline {chapter}{\numberline {9}Finanzplan}{19}{chapter.9}%
-\contentsline {section}{\numberline {9.1}Kapitalbedarfsplan}{19}{section.9.1}%
-\contentsline {section}{\numberline {9.2}Finanzierungsplan}{19}{section.9.2}%
-\contentsline {section}{\numberline {9.3}Liquiditätsplan}{20}{section.9.3}%
-\contentsline {section}{\numberline {9.4}Ertragsvorschau}{20}{section.9.4}%
-\contentsline {section}{\numberline {9.5}Informationsquellen zur Finanzierung}{21}{section.9.5}%
+\contentsline {section}{\numberline {6.4}Gründungsformalitäten}{15}{section.6.4}%
+\contentsline {chapter}{\numberline {7}Rechtsform}{16}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Firmenname und Rechtsform}{16}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Gesellschafterstruktur und Haftung}{16}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Gesellschaftsvertrag}{17}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Chancen und Risiken}{18}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Chancen}{18}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Risiken und Absicherung}{18}{section.8.2}%
+\contentsline {section}{\numberline {8.3}SWOT-Analyse}{19}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Finanzplan}{20}{chapter.9}%
+\contentsline {section}{\numberline {9.1}Kapitalbedarfsplan}{20}{section.9.1}%
+\contentsline {section}{\numberline {9.2}Finanzierungsplan}{20}{section.9.2}%
+\contentsline {section}{\numberline {9.3}Liquiditätsplan}{21}{section.9.3}%
+\contentsline {subsection}{\numberline {9.3.1}Monatliche Liquiditätsreserve}{21}{subsection.9.3.1}%
+\contentsline {section}{\numberline {9.4}Ertragsvorschau}{22}{section.9.4}%
+\contentsline {section}{\numberline {9.5}Informationsquellen zur Finanzierung}{22}{section.9.5}%
