@@ -34,7 +34,7 @@
 \contentsline {chapter}{\numberline {7}Rechtsform}{16}{chapter.7}%
 \contentsline {section}{\numberline {7.1}Firmenname und Rechtsform}{16}{section.7.1}%
 \contentsline {section}{\numberline {7.2}Gesellschafterstruktur und Haftung}{16}{section.7.2}%
-\contentsline {section}{\numberline {7.3}Gesellschaftsvertrag}{17}{section.7.3}%
+\contentsline {section}{\numberline {7.3}Gesellschaftsvertrag}{16}{section.7.3}%
 \contentsline {chapter}{\numberline {8}Chancen und Risiken}{18}{chapter.8}%
 \contentsline {section}{\numberline {8.1}Chancen}{18}{section.8.1}%
 \contentsline {section}{\numberline {8.2}Risiken und Absicherung}{18}{section.8.2}%
